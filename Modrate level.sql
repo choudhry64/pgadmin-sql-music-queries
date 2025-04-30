@@ -1,4 +1,4 @@
---EASY QUESTION
+--MODRATE QUESTION
 1 --Who is the senior most employee based on job title?
 Select * from employee;
 
