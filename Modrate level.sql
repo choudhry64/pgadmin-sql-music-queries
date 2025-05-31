@@ -3,6 +3,8 @@
 Return your list ordered alphabetically by email starting with A.'''
 
 
+
+
 select distinct first_name, last_name, email
 from customer  
 join invoice on customer.customer_id = invoice.customer_id
